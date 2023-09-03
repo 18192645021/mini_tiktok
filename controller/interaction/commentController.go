@@ -2,7 +2,7 @@ package interaction
 
 import (
 	"github.com/gin-gonic/gin"
-	"mock_douyin_project/service/interactionService"
+	"mock_douyin_project/service/interaction"
 )
 
 func CommentAction(c *gin.Context) {
