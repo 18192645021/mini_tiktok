@@ -18,6 +18,4 @@
 
 ##### 8）util：工具包
 ### 2、数据库表说明
-##### 见示例项目的readme文件
-![img_1.png](docs/img_1.png)
 ![img.png](docs/img.png)
